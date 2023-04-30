@@ -34,7 +34,7 @@ class AnalizaAnkete:
         return self.dataset.shape
 
     def kolone(self):
-        """ Funkcija kolone pokrece metodu columns koja išćitava imena svih kolona u bazi podataka..
+        """ Funkcija kolone pokrece metodu columns koja išćitava imena svih kolona u bazi podataka...
 
         Parametri
         --------
